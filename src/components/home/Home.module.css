@@ -1,5 +1,5 @@
 .main {
-  background-image: url("../../../src/assets/images/portada.jpg");
+  background-image: url("../../../src/images/portada.jpg");
   height: 100vh;
   color: #ffffff;
   background-repeat: no-repeat;
@@ -12,6 +12,6 @@
     -ms-flex: 100%;
     flex: 100%;
     max-width: 100%;
-    background-image: url("../../../src/assets/images/portada-tablet.png");
+    background-image: url("../../../src/images/portada-tablet.png");
   }
 }
